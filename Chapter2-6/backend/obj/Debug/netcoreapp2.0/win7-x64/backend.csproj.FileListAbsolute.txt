@@ -1,0 +1,28 @@
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.exe
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.deps.json
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.runtimeconfig.json
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.runtimeconfig.dev.json
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.dll
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.pdb
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.csproj.CoreCompileInputs.cache
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.AssemblyInfoInputs.cache
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.AssemblyInfo.cs
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.dll
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.pdb
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.csprojResolveAssemblyReference.cache
+C:\Application7\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Application7\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Application7\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.exe
+C:\Application7\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.deps.json
+C:\Application7\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.runtimeconfig.json
+C:\Application7\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.runtimeconfig.dev.json
+C:\Application7\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.dll
+C:\Application7\Application7\backend\bin\Debug\netcoreapp2.0\win7-x64\backend.pdb
+C:\Application7\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.csproj.CoreCompileInputs.cache
+C:\Application7\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.AssemblyInfoInputs.cache
+C:\Application7\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.AssemblyInfo.cs
+C:\Application7\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.dll
+C:\Application7\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.pdb
+C:\Application7\Application7\backend\obj\Debug\netcoreapp2.0\win7-x64\backend.csprojAssemblyReference.cache

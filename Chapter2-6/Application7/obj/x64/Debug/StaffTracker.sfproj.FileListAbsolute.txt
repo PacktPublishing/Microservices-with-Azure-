@@ -1,0 +1,2 @@
+C:\Users\Think\Documents\Visual Studio 2017\Projects\Application7\Application7\obj\x64\Debug\StaffTracker.sfproj.CoreCompileInputs.cache
+C:\Application7\Application7\Application7\obj\x64\Debug\StaffTracker.sfproj.CoreCompileInputs.cache
